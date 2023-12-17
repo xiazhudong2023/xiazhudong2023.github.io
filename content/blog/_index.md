@@ -4,7 +4,7 @@ description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
 author: "The R Markdown Team @RStudio"
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
@@ -25,17 +25,17 @@ sidebar:
   author: "The R Markdown Team @RStudio"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  categories_link: true
-  series_link: true
-  tags_link: true
-  show_sidebar_adunit: true # show ad container
+  categories_link: false
+  series_link: false
+  tags_link: false
+  show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
   author: "The R Markdown Team @RStudio"
   show_author_byline: true
   show_post_date: true
-  show_comments: true # see site config to choose Disqus or Utterances
+  show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
