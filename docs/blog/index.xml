@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Blog That Works on Hugo Apéro</title>
+    <link>https://xiazhudong2023.github.io/blog/</link>
+    <description>Recent content in A Blog That Works on Hugo Apéro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xiazhudong2023.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给你说个事儿</title>
+      <link>https://xiazhudong2023.github.io/blog/%E7%BB%99%E4%BD%A0%E8%AF%B4%E4%B8%AA%E4%BA%8B%E5%84%BF/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xiazhudong2023.github.io/blog/%E7%BB%99%E4%BD%A0%E8%AF%B4%E4%B8%AA%E4%BA%8B%E5%84%BF/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

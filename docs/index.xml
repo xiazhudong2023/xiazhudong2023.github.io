@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Apéro</title>
+    <link>https://xiazhudong2023.github.io/</link>
+    <description>Recent content on Hugo Apéro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xiazhudong2023.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给你说个事儿</title>
+      <link>https://xiazhudong2023.github.io/blog/%E7%BB%99%E4%BD%A0%E8%AF%B4%E4%B8%AA%E4%BA%8B%E5%84%BF/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xiazhudong2023.github.io/blog/%E7%BB%99%E4%BD%A0%E8%AF%B4%E4%B8%AA%E4%BA%8B%E5%84%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contributors</title>
+      <link>https://xiazhudong2023.github.io/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiazhudong2023.github.io/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:&#xA;Desirée De Leon &amp;#x1f992; (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)&#xA;Garrick Aden-Buie &amp;#x1f9d9; (debugged headroom.js and lent his panelset.js code to the theme)&#xA;Allison Horst &amp;#x1f415; (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot &amp;#x1f994;)</description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>https://xiazhudong2023.github.io/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiazhudong2023.github.io/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+  </channel>
+</rss>
